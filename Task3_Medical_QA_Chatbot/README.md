@@ -82,5 +82,5 @@ This project is intended for educational purposes only. The information provided
 
 ## Author
 
-Developed as part of an AI & Data Science Internship Project to demonstrate the application of Natural Language Processing (NLP), semantic search, and Streamlit-based web development.
+Jency Jerushiya J
 
