@@ -1,0 +1,19 @@
+Artificial Intelligence is the field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence where algorithms learn patterns from data to make predictions or decisions.
+
+Deep Learning is a specialized branch of Machine Learning that uses neural networks with multiple layers.
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language.
+
+Computer Vision allows machines to analyze and interpret images and videos.
+
+A neural network is a computational model inspired by the human brain and is widely used in deep learning.
+
+Reinforcement Learning is a machine learning approach where an agent learns by interacting with an environment and receiving rewards or penalties.
+
+The Transformer architecture is widely used in modern AI models for language understanding and text generation.
+
+Large Language Models (LLMs) are AI models trained on vast amounts of text data to understand and generate human-like language.
+
+Vector databases store embeddings and enable efficient semantic search for AI applications.
